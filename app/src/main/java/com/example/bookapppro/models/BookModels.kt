@@ -1,4 +1,4 @@
-package models
+package com.example.bookapppro.models
 
 import com.google.gson.annotations.SerializedName
 

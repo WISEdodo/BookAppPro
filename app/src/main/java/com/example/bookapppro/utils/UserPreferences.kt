@@ -2,7 +2,7 @@ package com.example.bookapppro.utils
 
 import android.content.Context
 import android.content.SharedPreferences
-import models.BookItem // We will create this model in Phase 3
+import com.example.bookapppro.models.BookItem // We will create this model in Phase 3
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 
